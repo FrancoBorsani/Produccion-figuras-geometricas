@@ -1,0 +1,546 @@
+# depslib dependency file v1.0
+1590770123 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\cilindro.cpp
+	"cilindro.h"
+
+1590770591 c:\users\medicentecno\desktop\tp ayed final - grupo 2\cilindro.h
+	<iostream>
+
+1590770165 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\circulo.cpp
+	"circulo.h"
+
+1590770626 c:\users\medicentecno\desktop\tp ayed final - grupo 2\circulo.h
+	<iostream>
+
+1590770201 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\cubo.cpp
+	"cubo.h"
+
+1590770664 c:\users\medicentecno\desktop\tp ayed final - grupo 2\cubo.h
+	<iostream>
+
+1590770239 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\figura.cpp
+	"figura.h"
+
+1590770694 c:\users\medicentecno\desktop\tp ayed final - grupo 2\figura.h
+	<iostream>
+
+1590770274 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacilindro.cpp
+	"listacilindro.h"
+	"cilindro.h"
+
+1590770726 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacilindro.h
+	"cilindro.h"
+	"listacolor.h"
+
+1590770788 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacolor.h
+	<iostream>
+
+1590770309 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacirculo.cpp
+	"listacirculo.h"
+	"circulo.h"
+
+1590770755 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacirculo.h
+	"circulo.h"
+	"listacolor.h"
+
+1590770335 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacolor.cpp
+	"listacolor.h"
+
+1590770366 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacubo.cpp
+	"listacubo.h"
+	"cubo.h"
+
+1590770836 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listacubo.h
+	"cubo.h"
+	"listacolor.h"
+
+1590770398 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listafigura.cpp
+	"listafigura.h"
+
+1590770872 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listafigura.h
+	"figura.h"
+	"listacolor.h"
+
+1590770431 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listarectangulo.cpp
+	"listarectangulo.h"
+	"rectangulo.h"
+
+1590770910 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listarectangulo.h
+	"rectangulo.h"
+	"listacolor.h"
+
+1590770970 c:\users\medicentecno\desktop\tp ayed final - grupo 2\rectangulo.h
+	<iostream>
+
+1590770467 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\listatriangulo.cpp
+	"listatriangulo.h"
+	"triangulo.h"
+
+1590770938 c:\users\medicentecno\desktop\tp ayed final - grupo 2\listatriangulo.h
+	"triangulo.h"
+	"listacolor.h"
+
+1590771006 c:\users\medicentecno\desktop\tp ayed final - grupo 2\triangulo.h
+	<iostream>
+
+1590956351 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"circulo.h"
+	"listacirculo.h"
+	"cilindro.h"
+	"listacilindro.h"
+	"cubo.h"
+	"listacubo.h"
+	"triangulo.h"
+	"listatriangulo.h"
+	"rectangulo.h"
+	"listarectangulo.h"
+	"figura.h"
+	"listafigura.h"
+	<string>
+	"listacolor.h"
+
+1590770514 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\rectangulo.cpp
+	"rectangulo.h"
+
+1590770547 source:c:\users\medicentecno\desktop\tp ayed final - grupo 2\triangulo.cpp
+	"triangulo.h"
+
+1590770123 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\cilindro.cpp
+	"cilindro.h"
+
+1590770591 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\cilindro.h
+	<iostream>
+
+1590770165 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\circulo.cpp
+	"circulo.h"
+
+1590770626 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\circulo.h
+	<iostream>
+
+1590770201 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\cubo.cpp
+	"cubo.h"
+
+1590770664 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\cubo.h
+	<iostream>
+
+1590770239 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\figura.cpp
+	"figura.h"
+
+1590770694 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\figura.h
+	<iostream>
+
+1590770274 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacilindro.cpp
+	"listacilindro.h"
+	"cilindro.h"
+
+1590770726 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacilindro.h
+	"cilindro.h"
+	"listacolor.h"
+
+1590770788 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacolor.h
+	<iostream>
+
+1590770309 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacirculo.cpp
+	"listacirculo.h"
+	"circulo.h"
+
+1590770755 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacirculo.h
+	"circulo.h"
+	"listacolor.h"
+
+1590770335 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacolor.cpp
+	"listacolor.h"
+
+1590770366 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacubo.cpp
+	"listacubo.h"
+	"cubo.h"
+
+1590770836 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listacubo.h
+	"cubo.h"
+	"listacolor.h"
+
+1590770398 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listafigura.cpp
+	"listafigura.h"
+
+1590770872 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listafigura.h
+	"figura.h"
+	"listacolor.h"
+
+1590770431 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listarectangulo.cpp
+	"listarectangulo.h"
+	"rectangulo.h"
+
+1590770910 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listarectangulo.h
+	"rectangulo.h"
+	"listacolor.h"
+
+1590770970 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\rectangulo.h
+	<iostream>
+
+1590770467 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listatriangulo.cpp
+	"listatriangulo.h"
+	"triangulo.h"
+
+1590770938 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\listatriangulo.h
+	"triangulo.h"
+	"listacolor.h"
+
+1590771006 c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\triangulo.h
+	<iostream>
+
+1591803618 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"circulo.h"
+	"listacirculo.h"
+	"cilindro.h"
+	"listacilindro.h"
+	"cubo.h"
+	"listacubo.h"
+	"triangulo.h"
+	"listatriangulo.h"
+	"rectangulo.h"
+	"listarectangulo.h"
+	"figura.h"
+	"listafigura.h"
+	<string>
+	"listacolor.h"
+
+1590770514 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\rectangulo.cpp
+	"rectangulo.h"
+
+1590770547 source:c:\users\medicentecno\desktop\ayed\tp ayed final - grupo 2\triangulo.cpp
+	"triangulo.h"
+
+1590770123 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\cilindro.cpp
+	"cilindro.h"
+
+1590770591 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\cilindro.h
+	<iostream>
+
+1590770165 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\circulo.cpp
+	"circulo.h"
+
+1590770626 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\circulo.h
+	<iostream>
+
+1590770201 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\cubo.cpp
+	"cubo.h"
+
+1590770664 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\cubo.h
+	<iostream>
+
+1590770239 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\figura.cpp
+	"figura.h"
+
+1590770694 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\figura.h
+	<iostream>
+
+1590770274 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacilindro.cpp
+	"listacilindro.h"
+	"cilindro.h"
+
+1590770726 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacilindro.h
+	"cilindro.h"
+	"listacolor.h"
+
+1590770788 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacolor.h
+	<iostream>
+
+1590770309 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacirculo.cpp
+	"listacirculo.h"
+	"circulo.h"
+
+1590770755 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacirculo.h
+	"circulo.h"
+	"listacolor.h"
+
+1590770335 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacolor.cpp
+	"listacolor.h"
+
+1590770366 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacubo.cpp
+	"listacubo.h"
+	"cubo.h"
+
+1590770836 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listacubo.h
+	"cubo.h"
+	"listacolor.h"
+
+1590770398 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listafigura.cpp
+	"listafigura.h"
+
+1590770872 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listafigura.h
+	"figura.h"
+	"listacolor.h"
+
+1590770431 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listarectangulo.cpp
+	"listarectangulo.h"
+	"rectangulo.h"
+
+1590770910 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listarectangulo.h
+	"rectangulo.h"
+	"listacolor.h"
+
+1590770970 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\rectangulo.h
+	<iostream>
+
+1590770467 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listatriangulo.cpp
+	"listatriangulo.h"
+	"triangulo.h"
+
+1590770938 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\listatriangulo.h
+	"triangulo.h"
+	"listacolor.h"
+
+1590771006 c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\triangulo.h
+	<iostream>
+
+1591902515 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"circulo.h"
+	"listacirculo.h"
+	"cilindro.h"
+	"listacilindro.h"
+	"cubo.h"
+	"listacubo.h"
+	"triangulo.h"
+	"listatriangulo.h"
+	"rectangulo.h"
+	"listarectangulo.h"
+	"figura.h"
+	"listafigura.h"
+	<string>
+	"listacolor.h"
+
+1590770514 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\rectangulo.cpp
+	"rectangulo.h"
+
+1590770547 source:c:\users\medicentecno\downloads\sec esc\ayed\tp ayed final - grupo 2\triangulo.cpp
+	"triangulo.h"
+
+1590770123 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\cilindro.cpp
+	"cilindro.h"
+
+1590770591 c:\users\medicentecno\desktop\entrega final ayed\proyecto\cilindro.h
+	<iostream>
+
+1590770165 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\circulo.cpp
+	"circulo.h"
+
+1590770626 c:\users\medicentecno\desktop\entrega final ayed\proyecto\circulo.h
+	<iostream>
+
+1590770201 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\cubo.cpp
+	"cubo.h"
+
+1590770664 c:\users\medicentecno\desktop\entrega final ayed\proyecto\cubo.h
+	<iostream>
+
+1590770239 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\figura.cpp
+	"figura.h"
+
+1590770694 c:\users\medicentecno\desktop\entrega final ayed\proyecto\figura.h
+	<iostream>
+
+1590770274 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacilindro.cpp
+	"listacilindro.h"
+	"cilindro.h"
+
+1590770726 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacilindro.h
+	"cilindro.h"
+	"listacolor.h"
+
+1590770788 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacolor.h
+	<iostream>
+
+1590770309 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacirculo.cpp
+	"listacirculo.h"
+	"circulo.h"
+
+1590770755 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacirculo.h
+	"circulo.h"
+	"listacolor.h"
+
+1590770335 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacolor.cpp
+	"listacolor.h"
+
+1590770366 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacubo.cpp
+	"listacubo.h"
+	"cubo.h"
+
+1590770836 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listacubo.h
+	"cubo.h"
+	"listacolor.h"
+
+1590770398 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listafigura.cpp
+	"listafigura.h"
+
+1590770872 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listafigura.h
+	"figura.h"
+	"listacolor.h"
+
+1590770431 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listarectangulo.cpp
+	"listarectangulo.h"
+	"rectangulo.h"
+
+1590770910 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listarectangulo.h
+	"rectangulo.h"
+	"listacolor.h"
+
+1590770970 c:\users\medicentecno\desktop\entrega final ayed\proyecto\rectangulo.h
+	<iostream>
+
+1590770467 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\listatriangulo.cpp
+	"listatriangulo.h"
+	"triangulo.h"
+
+1590770938 c:\users\medicentecno\desktop\entrega final ayed\proyecto\listatriangulo.h
+	"triangulo.h"
+	"listacolor.h"
+
+1590771006 c:\users\medicentecno\desktop\entrega final ayed\proyecto\triangulo.h
+	<iostream>
+
+1590770514 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\rectangulo.cpp
+	"rectangulo.h"
+
+1590770547 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\triangulo.cpp
+	"triangulo.h"
+
+1592024078 source:c:\users\medicentecno\desktop\entrega final ayed\proyecto\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"circulo.h"
+	"listacirculo.h"
+	"cilindro.h"
+	"listacilindro.h"
+	"cubo.h"
+	"listacubo.h"
+	"triangulo.h"
+	"listatriangulo.h"
+	"rectangulo.h"
+	"listarectangulo.h"
+	"figura.h"
+	"listafigura.h"
+	<string>
+	"listacolor.h"
+
+1590770123 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\cilindro.cpp
+	"cilindro.h"
+
+1590770591 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\cilindro.h
+	<iostream>
+
+1590770165 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\circulo.cpp
+	"circulo.h"
+
+1590770626 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\circulo.h
+	<iostream>
+
+1590770201 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\cubo.cpp
+	"cubo.h"
+
+1590770664 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\cubo.h
+	<iostream>
+
+1590770239 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\figura.cpp
+	"figura.h"
+
+1590770694 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\figura.h
+	<iostream>
+
+1590770274 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacilindro.cpp
+	"listacilindro.h"
+	"cilindro.h"
+
+1590770726 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacilindro.h
+	"cilindro.h"
+	"listacolor.h"
+
+1590770788 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacolor.h
+	<iostream>
+
+1590770309 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacirculo.cpp
+	"listacirculo.h"
+	"circulo.h"
+
+1590770755 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacirculo.h
+	"circulo.h"
+	"listacolor.h"
+
+1590770335 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacolor.cpp
+	"listacolor.h"
+
+1590770366 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacubo.cpp
+	"listacubo.h"
+	"cubo.h"
+
+1590770836 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listacubo.h
+	"cubo.h"
+	"listacolor.h"
+
+1590770398 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listafigura.cpp
+	"listafigura.h"
+
+1590770872 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listafigura.h
+	"figura.h"
+	"listacolor.h"
+
+1590770431 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listarectangulo.cpp
+	"listarectangulo.h"
+	"rectangulo.h"
+
+1590770910 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listarectangulo.h
+	"rectangulo.h"
+	"listacolor.h"
+
+1590770970 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\rectangulo.h
+	<iostream>
+
+1590770467 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listatriangulo.cpp
+	"listatriangulo.h"
+	"triangulo.h"
+
+1590770938 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\listatriangulo.h
+	"triangulo.h"
+	"listacolor.h"
+
+1590771006 c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\triangulo.h
+	<iostream>
+
+1592024591 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	"circulo.h"
+	"listacirculo.h"
+	"cilindro.h"
+	"listacilindro.h"
+	"cubo.h"
+	"listacubo.h"
+	"triangulo.h"
+	"listatriangulo.h"
+	"rectangulo.h"
+	"listarectangulo.h"
+	"figura.h"
+	"listafigura.h"
+	<string>
+	"listacolor.h"
+
+1590770514 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\rectangulo.cpp
+	"rectangulo.h"
+
+1590770547 source:c:\users\medicentecno\desktop\entrega final ayed grupo 2\proyecto\triangulo.cpp
+	"triangulo.h"
+
